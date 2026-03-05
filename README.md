@@ -44,15 +44,17 @@ https://ckounnapis-portfolio.netlify.app/
 Here are some of the projects I’ve worked on:
 
 🔹 Web Applications  
-🔹 Operating Systems Projects
-🔹 Artificial Intelligence Project
-🔹 Computational Mathematics Project
-🔹 UI focused applications
+🔹 Operating Systems Projects  
+🔹 Artificial Intelligence Projects  
+🔹 Computational Mathematics Projects  
+🔹 UI-focused Applications  
 
-Check them here 👉  
+You can explore them here ➡️
+
 🌍 Portfolio:  
 https://ckounnapis-portfolio.netlify.app/
 
+Or directly from my GitHub repositories.
 -----------------
 
 ## 📊 GitHub Stats
