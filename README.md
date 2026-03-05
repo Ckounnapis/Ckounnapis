@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Charalampos Kounnapis</h1>
 <h3 align="center">Undergraduate Student • Program Developer • Game Developer • CyberSecurity Analysts</h3>
 
----
+-----------------
 
 ## 🚀 About Me
 💻 I’m a software development who enjoys building modern, responsive and user-friendly web applications.
@@ -13,11 +13,10 @@
 🌍 Portfolio:  
 https://ckounnapis-portfolio.netlify.app/
 
----
-
+-----------------
 ## 🛠️ Tech Stack
 
-### IT
+##⚙️ IT
 - Basic Circuit Theory
 - Digital Design I & II
 - Electronics
@@ -38,7 +37,7 @@ https://ckounnapis-portfolio.netlify.app/
 - OpenAI API
 - ChatGPT
 - Prompt Engineering
----
+-----------------
 
 ## 📂 Projects
 
@@ -54,7 +53,7 @@ Check them here 👉
 🌍 Portfolio:  
 https://ckounnapis-portfolio.netlify.app/
 
----
+-----------------
 
 ## 📊 GitHub Stats
 
@@ -62,7 +61,7 @@ https://ckounnapis-portfolio.netlify.app/
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
----
+-----------------
 
 ## 🌍 Connect With Me
 
@@ -72,6 +71,6 @@ https://ckounnapis-portfolio.netlify.app/
 LinkedIn:  
 linkedin.com/in/charalampos-kounnapis
 
----
+-----------------
 
 ⭐ From Ckounnapis(https://github.com/Ckounnapis)
