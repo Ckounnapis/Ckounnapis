@@ -16,7 +16,7 @@ https://ckounnapis-portfolio.netlify.app/
 -----------------
 ## 🛠️ Tech Stack
 
-⚙️ IT
+## 💻 IT Skills
 - Basic Circuit Theory
 - Digital Design I & II
 - Electronics
