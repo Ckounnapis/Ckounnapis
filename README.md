@@ -58,14 +58,6 @@ Or directly from my GitHub repositories.
 
 -----------------
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckounnapis&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckounnapis&layout=compact&theme=tokyonight)
-
------------------
-
 ## 🌍 Connect With Me
 
 Portfolio:  
