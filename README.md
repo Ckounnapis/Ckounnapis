@@ -9,9 +9,6 @@
 🌱 I’m constantly learning new technologies and improving my development skills.
 
 ⚡ I enjoy solving problems, creating projects and turning ideas into real products.
- 
-🌍 Portfolio:  
-https://ckounnapis-portfolio.netlify.app/
 
 -----------------
 ## 🛠️ Tech Stack
@@ -60,12 +57,7 @@ Or directly from my GitHub repositories.
 
 ## 🌍 Connect With Me
 
-Portfolio:  
-https://ckounnapis-portfolio.netlify.app/
-
 LinkedIn:  
 linkedin.com/in/charalampos-kounnapis
 
 -----------------
-
-⭐ From Ckounnapis(https://github.com/Ckounnapis)
