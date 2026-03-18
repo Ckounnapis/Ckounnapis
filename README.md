@@ -1,63 +1,84 @@
 <h1 align="center">Hi 👋 I'm Charalampos Kounnapis</h1>
-<h3 align="center">Undergraduate Student • Program Developer • Game Developer • CyberSecurity Analysts</h3>
+<h3 align="center">Undergraduate Student • Program Developer • Game Developer • CyberSecurity Analyst</h3>
 
------------------
+---
 
 ## 🚀 About Me
-💻 I’m a software development who enjoys building modern, responsive and user-friendly web applications.
+
+💻 I’m a software developer who enjoys building modern, responsive and user-friendly applications.
 
 🌱 I’m constantly learning new technologies and improving my development skills.
 
 ⚡ I enjoy solving problems, creating projects and turning ideas into real products.
 
------------------
+---
+
+## 🎓 Studies & Certifications
+
+* 🎓 Integrated Master in Computer Science and Engineering – University of Ioannina
+
+* 🛡️ TryHackMe (CyberSecurity Course):
+
+  * Entry-Level (Pre Security, Cyber Security 101)
+  * SOC Analyst (Level 1):
+    Threat detection, log analysis, incident response, blue team operations
+
+---
+
 ## 🛠️ Tech Stack
 
-## 💻 IT Skills
-- Basic Circuit Theory
-- Digital Design I & II
-- Electronics
-- Computer Networks
+### 💻 IT Skills
 
-## 💻 Languages & Tools
-- Java
-- HTML
-- Python
-- Octave
-- C, C#
-- GitHub
-- Git
-- VS Code
-- Eclipse
+* Basic Circuit Theory
+* Digital Design I & II
+* Electronics
+* Computer Networks
 
-## 🤖 AI Tools
-- OpenAI API
-- ChatGPT
-- Prompt Engineering
------------------
+---
+
+### 💻 Languages & Tools
+
+* Java
+* HTML
+* Python
+* Octave
+* C, C#
+* Git & GitHub
+* VS Code
+* Eclipse
+
+---
+
+### 🤖 AI Tools
+
+* OpenAI API
+* ChatGPT
+* Prompt Engineering
+
+---
 
 ## 📂 Projects
 
 Here are some of the projects I’ve worked on:
 
-🔹 Web Applications  
-🔹 Operating Systems Projects  
-🔹 Artificial Intelligence Projects  
-🔹 Computational Mathematics Projects  
-🔹 UI-focused Applications  
+🔹 Web Applications
+🔹 Operating Systems Projects
+🔹 Artificial Intelligence Projects
+🔹 Computational Mathematics Projects
+🔹 UI-focused Applications
 
-You can explore them here ➡️
+👉 You can explore them here:
 
-🌍 Portfolio:  
+🌍 Portfolio:
 https://ckounnapis-portfolio.netlify.app/
 
 Or directly from my GitHub repositories.
 
------------------
+---
 
 ## 🌍 Connect With Me
 
-LinkedIn:  
-linkedin.com/in/charalampos-kounnapis
+🔗 LinkedIn:
+https://linkedin.com/in/charalampos-kounnapis
 
------------------
+---
